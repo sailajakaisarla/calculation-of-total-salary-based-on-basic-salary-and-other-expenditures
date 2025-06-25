@@ -1,0 +1,1 @@
+# calculation-of-total-salary-based-on-basic-salary-and-other-expenditures
